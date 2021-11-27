@@ -1,0 +1,28 @@
+{
+  "name": "js-ts-mentoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanalysa/js-ts-mentoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanalysa/js-ts-mentoring/issues"
+  },
+  "homepage": "https://github.com/yanalysa/js-ts-mentoring#readme",
+"dependencies": {
+  "mocha": "^9.1.3",
+  "chai": "^4.3.4",
+  "@types/chai": "^4.2.15",
+  "@types/mocha": "^5.2.7",
+  "typescript": "^3.9.9",
+  "ts-node": "^8.10.2"
+}
+}
